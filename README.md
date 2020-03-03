@@ -1,2 +1,4 @@
 # devin-wallace.github.io
-personal portfolio 
+Repo for personal portfolio. 
+
+Please visit https://devin-wallace.github.io 
