@@ -1,4 +1,4 @@
 make indiv tool box pages
-make email a copy to clipboard link 
+ 
 figure out how to do the contact me form, might need to use a google forum
-remove unneeded pages
+
