@@ -1,4 +1,0 @@
-make indiv tool box pages
-Force index page to load title first 
-figure out how to do the contact me form, might need to use a google forum
-
